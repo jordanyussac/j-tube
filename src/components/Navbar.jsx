@@ -13,7 +13,7 @@ const Navbar = () => (
       </Typography>
     </Link>
     <SearchBar />
-    <button type='button' onClick={() => window.open('https://jordanyussac.github.io/Jordan-s-Portfolio/')} class='blue_btn'><i class="	fa fa-user-circle"></i></button>
+    <button type='button' onClick={() => window.open('https://jordan-yussac.netlify.app/')} class='blue_btn'><i class="	fa fa-user-circle"></i></button>
   </Stack>
 )
 
